@@ -14,4 +14,4 @@ c_stdlib:
 c_compiler_version:
   - "0.16.0"
 c_stdlib_version:
-  - "0.16.02"
+  - "0.16.0"
